@@ -14,6 +14,6 @@
 
 ## Splunk Enterprise version 9.1.2
 
-## Utilized to ingest, aggregate, and analyze all data present in the Wiindows ecosystem
+## Utilized to ingest, aggregate, and analyze all data present in the Windows ecosystem
 
 
