@@ -1,0 +1,17 @@
+Security Event IDs:
+4672- Special privs assigned to new logon
+4670- Permissions on an object were changed
+1102- Logs whenever security log is cleared
+4688- A new process has been created
+4625- Logon failure
+4624- An account was succesfully logged on
+
+Performance:
+CPU, memory, disk, network usage
+App logs for app specific problems; useful for critical systems
+Database logs potentially
+
+Compliance:
+Audit logs
+Config changes
+Security Event Logs: https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/plan/appendix-l--events-to-monitor
