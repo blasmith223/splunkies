@@ -10,7 +10,7 @@
 ##  Used to forward reliable and secure data to the Splunk Enterprise environment
 
 
-# Windows Server 2019
+# Windows 2019 Server
 
 ## Splunk Enterprise version 9.1.2
 
